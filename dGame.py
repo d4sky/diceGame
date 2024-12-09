@@ -1,5 +1,4 @@
 import random
-from mm import *
 
 def print_message(value, wMsg, lMsg):
     if result < 0:
